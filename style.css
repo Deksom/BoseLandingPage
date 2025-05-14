@@ -43,6 +43,9 @@ body {
 @media (max-width: 576px) {
     .header {
       padding: 32px 20px;
+      background-image: url(img/header_bg_small.png);
+      background-position-x: 35%;
+      background-position-y: center;
     }
 }
 
